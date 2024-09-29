@@ -1,0 +1,9 @@
+.images{
+height: 100px;
+}
+
+.renderData{
+    display: flex;
+    column-gap: 50px;
+    min-height: 20px;
+}
